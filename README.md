@@ -6,5 +6,6 @@ This project is a clone of the Amazon landing page, recreated using HTML, CSS, a
 * CSS3
 * CSS Animations
 * Javascript
-
-
+  
+## Link
+https://sukhmanjotsandhu.github.io/OIBSIP/
