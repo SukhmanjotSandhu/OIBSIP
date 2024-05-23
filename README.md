@@ -7,5 +7,4 @@ This project is a clone of the Amazon landing page, recreated using HTML, CSS, a
 * CSS Animations
 * Javascript
 
-## Live Link:
-http://127.0.0.1:3002/Amazon-Clone-01-main/index.html
+
