@@ -6,9 +6,9 @@ Landing Page Source Code
 Temperature Converter Source Code
 All the projects were developed using HTML, CSS, and JavaScript.
 
-1. [Personal Portfolio Website Source Code](https://github.com/Alok-2002/Alok-2002.github.io)
-2. [Amazon Home Page Clone Source Code](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS)
-3. [Temperature Converter Source Code](https://github.com/Alok-2002/Temperature_Wizard)
+1. [Personal Portfolio Website Source Code]()
+2. [Amazon Home Page Clone Source Code](https://github.com/SukhmanjotSandhu/OIBSIP/tree/main/Amazon%20clone/Amazon%20Clone)
+3. [Temperature Converter Source Code](https://github.com/SukhmanjotSandhu/OIBSIP/tree/main/Temperature%20Converter/Temperature_Wizard-main)
 
 All the projects were developed using HTML, CSS, and JavaScript.
 
@@ -61,9 +61,9 @@ To view or modify the source code for the Temperature Converter project, navigat
 
 You can try out the live demos of the projects using the following links:
 
-1. [Personal Portfolio Website Demo](https://soulfulscribbles.tech)
-2. [Netflix Home Page Clone Demo](https://alok-2002-netflix.vercel.app/)
-3. [Temperature Converter Demo](https://temperaturewizard.vercel.app/)
+1. [Personal Portfolio Website Demo]()
+2. [Amazon Home Page Clone Demo](http://127.0.0.1:3000/AmazonClone/index.html)
+3. [Temperature Converter Demo](http://127.0.0.1:3000/Temperature_Wizard-main/index.html)
 
 Please note that the live demos may not be available for all projects or may have been hosted on different platforms.
 
